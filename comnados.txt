@@ -1,0 +1,11 @@
+composer require vlucas/phpdotenv
+composer require bramus/router ~1.6
+
+
+mysql -u usuario -p
+
+CREATE DATABASE nombre_de_la_base_de_datos;
+
+SHOW DATABASES;
+
+EXIT;
